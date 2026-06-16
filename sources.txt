@@ -1,0 +1,7 @@
+src/com/resumeanalyzer/model/AnalysisResult.java
+src/com/resumeanalyzer/model/JobProfile.java
+src/com/resumeanalyzer/model/Resume.java
+src/com/resumeanalyzer/util/FileUtil.java
+src/com/resumeanalyzer/service/ResumeAnalyzer.java
+src/com/resumeanalyzer/service/ResumeParser.java
+src/com/resumeanalyzer/main/Main.java

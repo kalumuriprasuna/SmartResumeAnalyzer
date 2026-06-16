@@ -1,0 +1,44 @@
+Using the Iris dataset, compute the mean, median, mode, variance and standard deviation for the numerical attributes. 
+
+Apply KNN classification on the Iris dataset and compare the results for different values of K.
+
+Perform the following preprocessing techniques on the Breast Cancer dataset:
+a) Attribute selection
+b) Handling missing values
+c) Discretization
+d) Elimination of outliers 
+
+Apply Logistic Regression on the Breast Cancer dataset for classification.
+
+Apply attribute selection and discretization on the Wine dataset and display the transformed dataset. 
+
+Demonstrate the Decision Tree algorithm for classification using the Wine dataset and perform parameter tuning for better results.
+
+Using the Diabetes dataset, compute the measures of central tendency and dispersion for the given attributes. 
+
+Demonstrate Decision Tree regression on the Diabetes dataset.
+
+Perform preprocessing on the California Housing dataset by handling missing values and eliminating outliers. 
+
+Demonstrate Simple Linear Regression on the California Housing dataset for a suitable feature and target.
+
+Apply Random Forest classification on the Breast Cancer dataset. 
+
+Apply Support Vector Machine (SVM) for classification on the Iris dataset.
+
+Apply KNN regression on the Diabetes dataset and analyse the prediction results.
+ 
+Demonstrate Naïve Bayes classification using the Iris dataset.
+
+
+Apply Random Forest regression on the California Housing dataset. 
+
+Demonstrate a Multi-Layer Perceptron (MLP) for classification on the Digits dataset.
+
+Implement the K-means clustering algorithm on the Iris dataset. Evaluate performance by measuring the sum of Euclidean distances of each sample from its cluster center, and test the performance for different values of K. 
+
+Demonstrate the use of Expectation Maximisation-based clustering on the Wine dataset.
+
+Demonstrate the use of Fuzzy C-Means clustering on the Iris dataset. 
+
+Apply the KNN algorithm for both classification and regression using the Iris dataset for classification and the Diabetes dataset for regression.

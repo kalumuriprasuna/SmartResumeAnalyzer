@@ -1,0 +1,22 @@
+Priya Verma
+priya.verma@gmail.com | +91 9812345678
+
+EXPERIENCE
+Software Developer at Infosys - 3 years
+- Built microservices using Spring Boot and deployed on AWS
+- Implemented CI/CD pipelines using Jenkins
+- Worked extensively with Docker and Kubernetes
+
+EDUCATION
+B.Tech in Information Technology - CSVTU Bhilai, 2021
+
+SKILLS
+Java, Spring Boot, Hibernate, MySQL, PostgreSQL, Git, Maven,
+Docker, Kubernetes, AWS, Jenkins, REST API, Microservices, JUnit
+
+CERTIFICATIONS
+AWS Certified Developer Associate - 2023
+
+PROJECTS
+1. Employee Management Portal - Spring Boot, React, MySQL
+2. Real-time Notification Service - Java, Kafka, Redis
